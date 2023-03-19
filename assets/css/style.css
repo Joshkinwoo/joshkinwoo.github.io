@@ -274,9 +274,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center no-repeat;
+  background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
-  position: relative;
 }
 
 @media (min-width: 992px) {
@@ -293,6 +292,7 @@ h6 {
   top: 0;
   left: 0;
   right: 0;
+  z-index: 1;
 }
 
 #hero h1 {
