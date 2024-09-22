@@ -1,1 +1,1 @@
-## joshkinwoo.github.io
+## JGPortfolio.github.io
